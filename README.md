@@ -1,2 +1,2 @@
 # blender_assets
-personal blender projects
+nodeGeometry, nodeShader and nodeCompositing
