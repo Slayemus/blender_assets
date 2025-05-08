@@ -1,2 +1,2 @@
 # blender_assets
-nodeGeometry, nodeShader and nodeCompositing
+nodeGeometry, nodeShader, nodeCompositing and python script in blender
